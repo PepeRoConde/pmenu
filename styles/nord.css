@@ -1,0 +1,25 @@
+window {
+    background-color: #2E3440; /* nord0 */
+    border: 1px solid #D8DEE9; /* nord4 */
+}
+
+#tui-button {
+    background-image: none;
+    background-color: #D8DEE9; /* nord4 */
+    color: #2E3440;           /* nord0 */
+    border-radius: 0;
+    font-family: 'Iosevka Term';
+    font-size: 15px;
+}
+
+#tui-button:hover {
+    background-color: #3B4252; /* nord1 */
+    color: #ECEFF4;            /* nord6 */
+    border-color: #81A1C1;     /* nord9 */
+}
+
+#tui-button:active {
+    background-color: #434C5E; /* nord2 */
+    border-color: #EBCB8B;     /* nord13 */
+}
+
