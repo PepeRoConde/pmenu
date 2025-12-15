@@ -9,6 +9,7 @@ git clone https://github.com/gaaelgarciia/pmenu.git
 cd pmenu
 cargo build --release
 ```
+(you may ``brew install pkg-config gtk+3`` before)
 
 To run it move to the cloned repo and execute:
 
